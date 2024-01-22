@@ -1,1 +1,7 @@
 # Cryptography
+
+In my role as a Cybersecurity Analyst at Nakatomi Hospital, I successfully mitigated a critical ransomware incident initiated by a doctor opening a malicious email. Faced with the encryption of all patient records, I firmly rejected the option to pay 100 Bitcoins and instead swiftly tackled six challenging riddles presented by the ransomware. The urgency stemmed from the potential life-threatening consequences if patient records were not promptly retrieved.
+
+Executing the decryption process, I adeptly solved each riddle by applying cryptographic concepts, leading to the acquisition of six essential keys. These keys, obtained through deciphering diverse challenges ranging from binary translations to steganography tricks, were pivotal to unlocking the patient records. My proficiency in both symmetric and asymmetric encryption, coupled with a nuanced understanding of cryptographic techniques, enabled a successful resolution to the ransomware crisis. The timely completion of this assignment safeguarded the well-being of Nakatomi Hospital's patients and showcased my expertise in the field.
+
+Navigating through the intricacies of each riddle, I demonstrated resilience, problem-solving acumen, and a commitment to ethical practices in cybersecurity. The collaborative effort with colleagues in deciphering complex cryptographic puzzles underscored the importance of a comprehensive approach to cybersecurity in safeguarding critical data and, ultimately, lives.
